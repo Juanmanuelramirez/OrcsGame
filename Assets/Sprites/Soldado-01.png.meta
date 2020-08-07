@@ -1,0 +1,1107 @@
+fileFormatVersion: 2
+guid: 2a70ab481097da14ab290616588a7b66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6266930627067979201
+    second: Soldado-01_0
+  - first:
+      213: 3814828550748852383
+    second: Soldado-01_1
+  - first:
+      213: -4994883805824181919
+    second: Soldado-01_2
+  - first:
+      213: -7984713684714014220
+    second: Soldado-01_3
+  - first:
+      213: -1448881823223459973
+    second: Soldado-01_4
+  - first:
+      213: 6488416761234567128
+    second: Soldado-01_5
+  - first:
+      213: -7445986184524472281
+    second: Soldado-01_6
+  - first:
+      213: -4688090203899279645
+    second: Soldado-01_7
+  - first:
+      213: -7758914934868559715
+    second: Soldado-01_8
+  - first:
+      213: -4787066194949422450
+    second: Soldado-01_9
+  - first:
+      213: 4132788536407328007
+    second: Soldado-01_10
+  - first:
+      213: 7645175815334014987
+    second: Soldado-01_11
+  - first:
+      213: 6793829012659952435
+    second: Soldado-01_12
+  - first:
+      213: -120677141432808331
+    second: Soldado-01_13
+  - first:
+      213: 4521390442174174954
+    second: Soldado-01_14
+  - first:
+      213: -3014323585780560621
+    second: Soldado-01_15
+  - first:
+      213: -9016415972492354383
+    second: Soldado-01_16
+  - first:
+      213: -6917444360851666188
+    second: Soldado-01_17
+  - first:
+      213: -510719295557341105
+    second: Soldado-01_18
+  - first:
+      213: 916631276025537781
+    second: Soldado-01_19
+  - first:
+      213: 3212363170146951389
+    second: Soldado-01_20
+  - first:
+      213: -4086689464368788896
+    second: Soldado-01_21
+  - first:
+      213: 8879463527487666594
+    second: Soldado-01_22
+  - first:
+      213: -3719019501314887946
+    second: Soldado-01_23
+  - first:
+      213: -1603212409511641503
+    second: Soldado-01_24
+  - first:
+      213: -5132421030110527496
+    second: Soldado-01_25
+  - first:
+      213: 297421115666936138
+    second: Soldado-01_26
+  - first:
+      213: 3103099611877967669
+    second: Soldado-01_27
+  - first:
+      213: 2851703981989916817
+    second: Soldado-01_28
+  - first:
+      213: -8066708740341257595
+    second: Soldado-01_29
+  - first:
+      213: 2993929639609414581
+    second: Soldado-01_30
+  - first:
+      213: -1708191132800214636
+    second: Soldado-01_31
+  - first:
+      213: 2651469564970927865
+    second: Soldado-01_32
+  - first:
+      213: -7412442794205834934
+    second: Soldado-01_33
+  - first:
+      213: 6697422903819430228
+    second: Soldado-01_34
+  - first:
+      213: -4581123905958759516
+    second: Soldado-01_35
+  - first:
+      213: 6486662788090329260
+    second: Soldado-01_36
+  - first:
+      213: 7458863206753592174
+    second: Soldado-01_37
+  - first:
+      213: -212154132849910621
+    second: Soldado-01_38
+  - first:
+      213: 1794082605441087966
+    second: Soldado-01_39
+  - first:
+      213: -9072382513036780254
+    second: Soldado-01_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soldado-01_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1046
+        width: 172
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c98157b1089a84f9aaa472115f154e
+      internalID: 6266930627067979201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1046
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e33981b43a658248900579103a2d71f
+      internalID: 3814828550748852383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1046
+        width: 176
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c9ac23c32b8e4e8bf662e357c3cba
+      internalID: -4994883805824181919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1046
+        width: 177
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794a06884225024281ae148e1a1b494
+      internalID: -7984713684714014220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_4
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1046
+        width: 176
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf69a255b8c6f14b80c63bd226fe93d
+      internalID: -1448881823223459973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_5
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1046
+        width: 172
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a846c396a10c41a7b0b6c98c3ce96
+      internalID: 6488416761234567128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 849
+        width: 182
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e885749b009be7f479205b05c3cf31e8
+      internalID: -7445986184524472281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 849
+        width: 178
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d282d0628f019b4dacaa29d64c1fede
+      internalID: -4688090203899279645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 849
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107faf58edecea7479d70677c4f5bf7f
+      internalID: -7758914934868559715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 849
+        width: 176
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65dfb0664427204ebfc23d2d095fa41
+      internalID: -4787066194949422450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 656
+        width: 184
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b81cca58ae0a45803aac9bd9a2ac6
+      internalID: 4132788536407328007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 656
+        width: 187
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030a6955b61d67e4fa3da1db3b3117a9
+      internalID: 7645175815334014987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 656
+        width: 197
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f647dcc78e1b7de4e9aca6a1b1dade73
+      internalID: 6793829012659952435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_13
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 656
+        width: 198
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0df90e9ef0140244a45a70cd47a9aac
+      internalID: -120677141432808331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 659
+        width: 199
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ac98b5c384084796e698b1e43185e
+      internalID: 4521390442174174954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 656
+        width: 197
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4013937bd8bf6d64d9f525f4b1117b0d
+      internalID: -3014323585780560621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb81f2ad255fa459f4905971fc6dd5
+      internalID: -9016415972492354383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 453
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da54fdb309cf18f4983f4c470293def2
+      internalID: -6917444360851666188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 271
+        width: 182
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dea6dc37b31d042bd7059a93efb551
+      internalID: -510719295557341105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 271
+        width: 179
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012834b07afbe0f458e11c82112ba61b
+      internalID: 916631276025537781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_20
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 271
+        width: 190
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f81738920a85f48b4483f06c335f7c
+      internalID: 3212363170146951389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 271
+        width: 195
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405a4222c4f5e6444ba5dbe63ef8a32c
+      internalID: -4086689464368788896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_22
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 271
+        width: 187
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0d4ee5792cf4e4db4239daae059501
+      internalID: 8879463527487666594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_23
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 271
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed49b1ad30d515e4ab55b70ba5776622
+      internalID: -3719019501314887946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_24
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 271
+        width: 193
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bea7cc03a8eefd4d8addd5ffbc4f651
+      internalID: -1603212409511641503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_25
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 271
+        width: 205
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a91d6e9982039e48a1741ddaac7e83f
+      internalID: -5132421030110527496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_26
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 271
+        width: 213
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9fccb8e1ae2094dab78fad12d23c62
+      internalID: 297421115666936138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 58
+        width: 184
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c8c0bd5a51ea44f855ca372ec727ee
+      internalID: 3103099611877967669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 60
+        width: 184
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f93b48d32841d44d8092cd3c7f61d59
+      internalID: 2851703981989916817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_29
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 60
+        width: 181
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556fb0f96b98f4543a9341e11934accf
+      internalID: -8066708740341257595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_30
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 60
+        width: 357
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2d3fec41f02b54596b774e1561833f
+      internalID: 2993929639609414581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_31
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 60
+        width: 182
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0b2c657c12542489c9e72381829a3c
+      internalID: -1708191132800214636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_32
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 60
+        width: 348
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01c5054ba3a8749ae3feeb0ab00b8e
+      internalID: 2651469564970927865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_33
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 58
+        width: 182
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6e7e078d139f44a4367c44187f48d
+      internalID: -7412442794205834934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_34
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 59
+        width: 180
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df7e78cd1588b04ab36eb4dfa774181
+      internalID: 6697422903819430228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_35
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 60
+        width: 178
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16981481cbbcaea4bae0dba1f30835c5
+      internalID: -4581123905958759516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_36
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 60
+        width: 172
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794213553f7647d42978397ced548b01
+      internalID: 6486662788090329260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_37
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 60
+        width: 167
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9145ae9a7ea004bbb53a359706a21a
+      internalID: 7458863206753592174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_38
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 60
+        width: 170
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d45ef8b1bd6c478c54a236385875f
+      internalID: -212154132849910621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_39
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 60
+        width: 178
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847c122384b94384daa45b634f74ea21
+      internalID: 1794082605441087966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soldado-01_40
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 59
+        width: 180
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578708afd829ad4282b989489b3d7dd
+      internalID: -9072382513036780254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65b459492fc32184e8a185d2487f5221
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
